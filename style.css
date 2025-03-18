@@ -1,0 +1,13 @@
+body{
+    color:darkgreen;
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    color:blue
+}
+img{
+    width: 200px;
+    height: auto;
+}
